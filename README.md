@@ -60,5 +60,5 @@
 </p>
 
 <!-- OF COURSE, MY GOAT -->
-<h4>🐐LEBRON🐐</h4>
+<h2>🐐LEBRON🐐</h2>
 <img width="498" height="274" alt="lebron" src="https://github.com/user-attachments/assets/fc3fa1b3-8f02-4085-9d70-feb8c7898e9a" />
